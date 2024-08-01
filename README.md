@@ -70,7 +70,3 @@ Contributions are welcome! Please follow these guidelines:
 ## License
 
 This project is licensed under the MIT License - see the [LICENCE](LICENCE) file for details.
-
-## Contact
-
-For any questions or support, please open an issue on the GitHub repository or contact the repository owner at `charankocharla13@example.com`.
